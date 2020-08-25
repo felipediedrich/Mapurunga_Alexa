@@ -19,3 +19,4 @@ Com esse ambiente, seria possível estabelecer uma conexão com a Internet das C
 ## Pinos
 
 ## Fluxograma
+![Fluxograma](Imagens/Fluxograma.png)

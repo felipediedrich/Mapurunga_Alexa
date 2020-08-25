@@ -13,6 +13,10 @@ Com esse ambiente, seria possível estabelecer uma conexão com a Internet das C
 * Fácil acesso a informações
 * Realizar tarefas por comando de voz
 
+**Microcontrolador utilizado:**
+**STM32F746**
+
+![disco](Imagens/discovery.jpg)
 
 ## Periféricos
 ![Periféricos](Imagens/Perifericos.png)

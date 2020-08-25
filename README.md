@@ -20,11 +20,13 @@ Com esse ambiente, seria possível estabelecer uma conexão com a Internet das C
 
 ![disco](Imagens/discovery.jpg)
 
+Esse microcontrolador foi escolhido por possuir periféricos como microfone, entrada ethernet e saida para speaker. Essenciais para o objetivo do projeto. 
+
 ## Periféricos
 ![Periféricos](Imagens/Perifericos.png)
 ## Fluxograma
 ![Fluxograma](Imagens/Fluxograma.png)
 ## Pinagem
-[Planilha de PINOS](https://docs.google.com/spreadsheets/d/1Sw0a9_pRrKhN5JRSCNtv-Qpn41waan8Ut9J1HC0hoy8/)
+A pinagem detalhada pode ser encontrada na [planilha de PINOS](https://docs.google.com/spreadsheets/d/1Sw0a9_pRrKhN5JRSCNtv-Qpn41waan8Ut9J1HC0hoy8/).
 
 ![pinagem](Imagens/pinagem.PNG)

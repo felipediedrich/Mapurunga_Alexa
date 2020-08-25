@@ -15,7 +15,7 @@ Com esse ambiente, seria possível estabelecer uma conexão com a Internet das C
 
 
 ## Periféricos
-
+![Periféricos](Imagens/Perifericos.png)
 ## Pinos
 
 ## Fluxograma

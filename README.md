@@ -22,7 +22,9 @@ Com esse ambiente, seria possível estabelecer uma conexão com a Internet das C
 
 ## Periféricos
 ![Periféricos](Imagens/Perifericos.png)
-## Pinagem
-![pinagem](Imagens/pinagem.PNG)
 ## Fluxograma
 ![Fluxograma](Imagens/Fluxograma.png)
+## Pinagem
+[Planilha de PINOS](https://docs.google.com/spreadsheets/d/1Sw0a9_pRrKhN5JRSCNtv-Qpn41waan8Ut9J1HC0hoy8/)
+
+![pinagem](Imagens/pinagem.PNG)
